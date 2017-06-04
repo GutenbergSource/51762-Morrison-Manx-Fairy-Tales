@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Manx Fairy Tales</dc:title>
+      <dc:creator>Sophia Morrison (1859–1917)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2016-04-15</dc:publisher>
+      <dc:date>2016-04-15</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Scans for this work are available from the Internet Archive (copy 1).
+</dc:rights>
+      <dc:subject>fairy tales</dc:subject>
+      <dc:subject>Isle of Man, folklore</dc:subject>
+      <dc:subject>Isle of Man</dc:subject>
+      <dc:description>Sophia Morrison (24 May 1859–14 January 1917) was a Manx cultural activist, folklore collector and author. Through her own work and role in encouraging and enthusing others, she is considered to be one of the key figures of the Manx cultural revival. She is best remembered today for writing Manx Fairy Tales, published in 1911, although her greatest influence was as an activist for the revitalization of Manx culture, particularly through her work with the Manx Language Society and its journal, Mannin, which she edited from 1913 until her death.</dc:description>
+      <dc:identifier>pg:51762</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
